@@ -1,0 +1,489 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InLabProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\InLabProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\README.markdown",
+      "PackagePath": "staticwebassets\\README.markdown"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\about-us.html",
+      "PackagePath": "staticwebassets\\about-us.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\ad-list-view.html",
+      "PackagePath": "staticwebassets\\ad-list-view.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\ad-listing.html",
+      "PackagePath": "staticwebassets\\ad-listing.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\blog.html",
+      "PackagePath": "staticwebassets\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\bootstrap-slider.css",
+      "PackagePath": "staticwebassets\\bootstrap-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\bootstrap-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\category.html",
+      "PackagePath": "staticwebassets\\category.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\contact-us.html",
+      "PackagePath": "staticwebassets\\contact-us.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\dashboard-archived-ads.html",
+      "PackagePath": "staticwebassets\\dashboard-archived-ads.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\dashboard-favourite-ads.html",
+      "PackagePath": "staticwebassets\\dashboard-favourite-ads.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\dashboard-my-ads.html",
+      "PackagePath": "staticwebassets\\dashboard-my-ads.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\dashboard-pending-ads.html",
+      "PackagePath": "staticwebassets\\dashboard-pending-ads.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\dashboard.html",
+      "PackagePath": "staticwebassets\\dashboard.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\fastclick.js",
+      "PackagePath": "staticwebassets\\fastclick.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\font-awesome.css",
+      "PackagePath": "staticwebassets\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\jquery.js",
+      "PackagePath": "staticwebassets\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\jquery.nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\jquery.raty-fa.js",
+      "PackagePath": "staticwebassets\\jquery.raty-fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\map.js",
+      "PackagePath": "staticwebassets\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\nice-select.css",
+      "PackagePath": "staticwebassets\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\package.html",
+      "PackagePath": "staticwebassets\\package.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\popper.min.js",
+      "PackagePath": "staticwebassets\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\prism.js",
+      "PackagePath": "staticwebassets\\prism.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\single-blog.html",
+      "PackagePath": "staticwebassets\\single-blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\single.html",
+      "PackagePath": "staticwebassets\\single.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\slick-theme.css",
+      "PackagePath": "staticwebassets\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\slick.css",
+      "PackagePath": "staticwebassets\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\slick.eot",
+      "PackagePath": "staticwebassets\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\slick.min.js",
+      "PackagePath": "staticwebassets\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\slick.svg",
+      "PackagePath": "staticwebassets\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\slick.ttf",
+      "PackagePath": "staticwebassets\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\slick.woff",
+      "PackagePath": "staticwebassets\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\store.html",
+      "PackagePath": "staticwebassets\\store.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\style.css.map",
+      "PackagePath": "staticwebassets\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\terms-condition.html",
+      "PackagePath": "staticwebassets\\terms-condition.html"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\tether-theme-arrows-dark.css",
+      "PackagePath": "staticwebassets\\tether-theme-arrows-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\tether-theme-arrows-dark.min.css",
+      "PackagePath": "staticwebassets\\tether-theme-arrows-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\tether-theme-arrows.css",
+      "PackagePath": "staticwebassets\\tether-theme-arrows.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\tether-theme-arrows.min.css",
+      "PackagePath": "staticwebassets\\tether-theme-arrows.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\tether-theme-basic.css",
+      "PackagePath": "staticwebassets\\tether-theme-basic.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\tether-theme-basic.min.css",
+      "PackagePath": "staticwebassets\\tether-theme-basic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\tether.css",
+      "PackagePath": "staticwebassets\\tether.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\tether.js",
+      "PackagePath": "staticwebassets\\tether.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\tether.min.css",
+      "PackagePath": "staticwebassets\\tether.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\tether.min.js",
+      "PackagePath": "staticwebassets\\tether.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amr\\OneDrive\\Desktop\\InLabProject\\InLabProject\\wwwroot\\user-profile.html",
+      "PackagePath": "staticwebassets\\user-profile.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.InLabProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.InLabProject.props",
+      "PackagePath": "build\\InLabProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.InLabProject.props",
+      "PackagePath": "buildMultiTargeting\\InLabProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.InLabProject.props",
+      "PackagePath": "buildTransitive\\InLabProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
